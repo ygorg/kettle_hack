@@ -1,5 +1,11 @@
 # Hacking a cheap electric kettle to control its temperature
 
+## TODO
+
+- Upload pictures
+- Try to find correlation between sensors
+- Redo experiment while putting sensor lower in the handle.
+
 ## Inspiration
 
 [Kettle_wifi](https://github.com/OpHaCo/Kettle_wifi) ([Same project](https://www.hackster.io/lahorde/from-a-14-kettle-to-an-ikettle-d2b3f7?f=1))
@@ -58,3 +64,7 @@ For me, overrall, the main issue is getting a T° that is the closest to the rea
 - The thermometer under the base isn't useful.
 
 - I need to see whether there is a correlation between any thermometer and the "real" T°. For every point is there a coefficient to go from thermometer to "real" T° ?
+
+- The maximum value should be stable accross different water volumes.
+
+- Where is the thermometer located in fancy kettles ?
